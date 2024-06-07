@@ -1,4 +1,4 @@
 import request
-TARGET = "https://becode.org/"
+TARGET = "https://www.wikipedia.org/"
 response = request.get(TARGET)
 
